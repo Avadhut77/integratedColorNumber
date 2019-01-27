@@ -13,7 +13,7 @@
         {
           "type": 0,
           "lang": "en",
-          "speech": "please enter number and color or color and number..!"
+          "speech": "Please enter lucky number and color separately or together..!"
         }
       ],
       "defaultResponsePlatforms": {},
