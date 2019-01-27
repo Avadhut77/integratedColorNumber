@@ -1,1 +1,1 @@
-# intergratingColorNumber
+# intergratedColorNumber
